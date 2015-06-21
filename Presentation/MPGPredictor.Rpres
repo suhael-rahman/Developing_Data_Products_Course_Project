@@ -1,7 +1,7 @@
 MPGPredictor - Predict the Miles per Gallon (MPG) of a Car
 ========================================================
-author: Edward Lim
-date: 12 June 2015
+author: Ross Flieger-Allison
+date: 21 June 2015
 transition: rotate
 
 Introduction
@@ -12,11 +12,11 @@ This presentation is part of the Course Project for the Coursera Developing Data
 1. Shiny app
 2. R Presentation describing the Shiny app in 5 pages.
 
-The Shiny app is hosted on [ShinyApps.io](https://edwardlim.shinyapps.io/Coursera-DevelopingDataProducts).
+The Shiny app is hosted on [ShinyApps.io](https://rfoxfa.shinyapps.io/Coursera-DevelopingDataProducts).
 
-The R Presentation is available at [RPubs](http://rpubs.com/EdwardLim/Coursera-DevelopingDataProducts).
+The R Presentation is available at [RPubs](http://rpubs.com/rfoxfa/88846).
 
-Source code for ui.R and server.R files are available in my [GitHub repository](https://github.com/EdwardLim/Coursera-DevelopingDataProducts).
+Source code for ui.R and server.R files are available in my [GitHub repository](https://github.com/rfoxfa/Developing_Data_Products_Course_Project).
 
 
 mtcars Dataset

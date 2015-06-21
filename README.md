@@ -4,8 +4,8 @@ This app is developed for the course project in the Coursera Developing Data Pro
 
 The prediction model uses the mtcars dataset. 
 
-The app is hosted on [ShinyApps.io](https://edwardlim.shinyapps.io/Coursera-DevelopingDataProducts)
+The app is hosted on [ShinyApps.io](https://rfoxfa.shinyapps.io/Coursera-DevelopingDataProducts)
 
-The R Presentation is available at [RPubs](http://rpubs.com/EdwardLim/Coursera-DevelopingDataProducts).
+The R Presentation is available at [RPubs](http://rpubs.com/rfoxfa/88846).
 
-Source code for ui.R and server.R files are available in my [GitHub repository](https://github.com/EdwardLim/Coursera-DevelopingDataProducts).
+Source code for ui.R and server.R files are available in my [GitHub repository](https://github.com/rfoxfa/Developing_Data_Products_Course_Project).

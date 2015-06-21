@@ -1,7 +1,7 @@
 library(shiny)
 library(markdown)
 
-shinyUI(navbarPage("Miles per Gallon (MPG) Predictor",
+shinyUI(navbarPage("Miles Per Gallon (MPG) Predictor",
                    tabPanel("Predictor",
                             sidebarLayout(
                               sidebarPanel(
