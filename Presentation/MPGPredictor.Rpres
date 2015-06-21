@@ -1,0 +1,50 @@
+MPGPredictor - Predict the Miles per Gallon (MPG) of a Car
+========================================================
+author: Edward Lim
+date: 12 June 2015
+transition: rotate
+
+Introduction
+========================================================
+
+This presentation is part of the Course Project for the Coursera Developing Data Products class. The peer assessed assignment has two parts.
+
+1. Shiny app
+2. R Presentation describing the Shiny app in 5 pages.
+
+The Shiny app is hosted on [ShinyApps.io](https://edwardlim.shinyapps.io/Coursera-DevelopingDataProducts).
+
+The R Presentation is available at [RPubs](http://rpubs.com/EdwardLim/Coursera-DevelopingDataProducts).
+
+Source code for ui.R and server.R files are available in my [GitHub repository](https://github.com/EdwardLim/Coursera-DevelopingDataProducts).
+
+
+mtcars Dataset
+========================================================
+
+The app uses the mtcars dataset which comes from the Motor Trend Car Road Tests (mtcars) dataset. The data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973-74 models).
+
+```{r}
+head(mtcars)
+```
+
+
+Using the MPGPredictor app
+========================================================
+
+To use the application, just input the following:
+
+1. Weight of the car (in 1000 lbs)
+2. Horsepower of the car
+3. Number of cylinders in the car (4, 6 or 8)
+4. Transmission type of the car (Automatic or Manual)
+
+Click the Submit button
+
+The predicted MPG value for the car will be displayed in the corresponding output box in the main panel.
+
+
+MPGPredictor app screen
+========================================================
+
+![MPGPredictor Screen](MPGPredictor-Scr1.png)
